@@ -1,0 +1,185 @@
+/* HTML elements */
+
+
+body {
+  font-family: Montserrat;
+}
+
+h1 {
+  font-family: Montserrat;
+  font: Montserrat-black;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 600;
+  padding-bottom: 50px;
+}
+
+h2 {
+  font-family: Montserrat;
+  font-size: 2.5rem;
+  font-weight: 600;
+  padding-bottom: 50px;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: Montserrat;
+  font: Montserrat-black;
+  font-size: 2.7rem;
+  font-weight: 600;
+  padding-bottom: 40px;
+}
+
+h4 {
+  font-size: 2rem;
+  padding-bottom: 50px;
+  color: white;
+}
+
+p {
+  color: white;
+  font-size: 1.2rem;
+}
+
+
+
+em {
+  color: white;
+  font-weight: bold;
+  margin-left: 50px;
+}
+
+
+
+/* NAVBAR */
+
+.navbar-brand {
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: Montserrat;
+}
+
+.navbar {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* FIRST PAGE*/
+
+.container-fluid {
+  padding: 2.5% 15%;
+  background-color: #ff4c68;
+}
+
+.fa-paw {
+  margin-left: 250px;
+  margin-top: 90px;
+}
+
+.fa-paw:hover {
+  color: white;
+}
+
+.IOS {
+  margin-right: 10px;
+}
+
+
+/* Features */
+.container-fluid-2 {
+  background-color: #ff4c68;
+  padding: 5% 8%;
+}
+
+.features {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  margin-bottom: 40px;
+}
+
+.icon:hover {
+  color: white;
+}
+
+
+
+/* Testimonials */
+
+#testimonials {
+  background-color: #ff4c68;
+  text-align: center;
+}
+
+
+
+.testimonial-image {
+  width: 15%;
+  border-radius: 100%
+}
+
+.carousel-item {
+  padding: 6% 15%;
+}
+
+/* pricing */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+  background-color: #ff4c68;
+}
+
+.card {
+  background-color: black;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  border-radius: 70px;
+}
+
+.pricing-coloumn {
+  padding: 3%;
+}
+
+.card-header {
+  color: white;
+}
+
+.card-body {
+  color: #ff4c68;
+}
+
+
+
+/* call to action */
+
+#cta {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 7% 4%;
+}
+
+/* footer */
+#footer {
+  background-color: #ff4c68;
+  text-align:center;
+  padding: 4%
+}
+
+.footer-icon{
+  margin-right: 40px;
+}
+
+.footer-icon:hover{
+  color: white;
+}
+
+.Copyright{
+  padding-top: 50px;
+}
